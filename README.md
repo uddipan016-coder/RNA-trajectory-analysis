@@ -7,6 +7,6 @@ of RNA systems. The scripts focus on:
 - Collective variable analysis
 - Free energy reconstruction
 - TICA-based dimensionality reduction
-- Path-metadynamics utilities
+- Frame dumping along minimum free-energy path (MFP) 
 
 The tools are designed for GROMACS trajectories and PLUMED-based enhanced sampling.
